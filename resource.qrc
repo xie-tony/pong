@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>bgm.mp3</file>
+        <file>bounce.wav</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>bg.png</file>
+    </qresource>
+</RCC>
